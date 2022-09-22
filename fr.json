@@ -1,5 +1,5 @@
 {
-    "hello": "Bonjour!",
+    "hello": "Bonjour le monde!",
     "simple_greeting": "Hi {}!",
     "named_greeting": "Hi {name}!",
     "child_medicine_due": {
