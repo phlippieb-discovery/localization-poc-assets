@@ -1,0 +1,15 @@
+{
+    "hello": "Buenos dias",
+    "simple_greeting": "Hi {}!",
+    "named_greeting": "Hi {name}!",
+    "child_medicine_due": {
+        "male": "It's time to give {} his medicine",
+        "female": "It's time to give {} her medicine",
+        "other": "It's time to give {} their medicine"
+    },
+    "due_in_days": {
+        "zero": "Due today",
+        "one": "Due tomorrow",
+        "other": "Due in {} days"
+    }
+}
